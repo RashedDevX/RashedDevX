@@ -45,11 +45,6 @@
 
 ### 📊 GitHub Analysis
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RashedDevX&show_icons=true&theme=transparent&title_color=00D2FF&icon_color=00D2FF&text_color=ffffff&bg_color=0D1117&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashedDevX&layout=compact&theme=transparent&title_color=00D2FF&icon_color=00D2FF&text_color=ffffff&bg_color=0D1117&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashedDevX&theme=transparent&fire=00D2FF&ring=00D2FF&currStreakLabel=00D2FF" alt="GitHub Streak" />
 </div>
 
